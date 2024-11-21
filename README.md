@@ -1,16 +1,13 @@
-## Hi there 👋
+# What is this? My profile ReadMe!!! :)
 
-<!--
-**danielboscu/danielboscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+School: I'm attending *The University of Chicago* as of 2024
 
-Here are some ideas to get you started:
+Favorite class: Mechanics 13100 with Professor Gazes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hometown: **Ploiesti, Romania**
+
+1st computer owned: Some old HP desktop when I was 6 years old. Funny story about that desktop -- our repairman stole our 1TB hard drive and replaced it with 100 GB, and we didn't know that up until one year later. People who had a desktop in the early 2010s know how much a hard drive like that used to cost. *D :*
+
+Contact info: danielboscu@uchicago.edu
+
+Favorite language and tech: Python and scikit/matplotlib/geopandas *(I cannot decide on one)*
